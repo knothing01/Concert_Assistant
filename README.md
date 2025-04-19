@@ -132,7 +132,3 @@ These constants are defined at the top of `concert_assistant_runtime.py` and can
 4. Open a pull request.
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
