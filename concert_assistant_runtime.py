@@ -1,19 +1,3 @@
-#!/usr/bin/env python3
-"""
-concert_assistant_runtime.py
-
-A simple in‑memory RAG for concert‑tour documents.
-
-Commands (at the “> ” prompt):
-  ingest <path>      — ingest a PDF or TXT concert‑tour doc
-  query <question>   — ask about your ingested tours
-  help               — show this message
-  exit               — quit
-
-No files are written to disk; all summaries, embeddings,
-and full texts live only in RAM for this session.
-"""
-
 import sys
 import shlex
 
