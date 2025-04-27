@@ -122,13 +122,3 @@ These constants are defined at the top of `concert_assistant_runtime.py` and can
 - **Model loading issues**:  
   Ensure you have compatible versions of `transformers`, `sentence-transformers`, and `faiss` installed.
 
----
-
-## Contributing
-
-1. Fork the repository and create your feature branch (`git checkout -b feature-description`).
-2. Commit your changes (`git commit -m 'Add new feature'`).
-3. Push to the branch (`git push origin feature-description`).
-4. Open a pull request.
-
----
